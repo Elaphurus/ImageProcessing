@@ -1,5 +1,5 @@
 # ImageProcessing
-A image processing trial written in HTML and JavaScript, 
+A image processing trial written in HTML and JavaScript 
 including some filter implement principles, like:
 * grayscale
 * sepia
